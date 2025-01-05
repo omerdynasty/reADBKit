@@ -11,6 +11,10 @@ Whether you're a beginner exploring the world of Android or a seasoned developer
 
 ---
 
+### 📌 I have nothing to hide, everything is open source. Feel free to fix problems, but I'd be happy if you give attribution.
+
+---
+
 ### **1. Introduction & Disclaimer:**
 ```batch
 @echo off
