@@ -1,6 +1,6 @@
 # ReADBKit - Your ADB & Fastboot Companion 🚀
 
-[v0.0.1-alpha.1](https://github.com/omerdynasty/reADBKit/releases/tag/Alpha)
+[v0.0.1-alpha.2](https://github.com/omerdynasty/reADBKit/releases/tag/Alpha)
 
 ReADBKit is a comprehensive, easy-to-use toolkit designed for Android enthusiasts and developers. With its intuitive menu system, ReADBKit streamlines common ADB and Fastboot operations, enabling you to:
 
