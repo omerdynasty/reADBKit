@@ -1,3 +1,5 @@
+## I wrote this tool back when I was first learning to code, on my very first computer. For that reason, I wouldn’t really recommend using it. I created a revised version before archiving it; if you really need it, you can use that one. At this point, you can modify the code however you like.
+
 # ReADBKit - Your ADB & Fastboot Companion 🚀
 
 I am not responsible for bricks, fires, nuclear war, etc.
